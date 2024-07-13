@@ -1,0 +1,14 @@
+Age Group = 
+IF(
+    HRANALTICSDATA[Age] >= 20 && HRANALTICSDATA[Age] <= 30, "20-30",
+    IF(
+        HRANALTICSDATA[Age] >= 31 && HRANALTICSDATA[Age] <= 40, "31-40",
+        IF(
+            HRANALTICSDATA[Age] >= 41 && HRANALTICSDATA[Age] <= 50, "41-50",
+            IF(
+                HRANALTICSDATA[Age] >= 51 && HRANALTICSDATA[Age] <= 60, "51-60","60+"
+                
+            )
+        )
+    )
+)
