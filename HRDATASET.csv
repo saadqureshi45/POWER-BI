@@ -1,4 +1,4 @@
-Employee_ID,Name,Gender,Marital_Status,Department_ID,Grade,Employee_Count,Job_Satisfaction,MonthlyIncome,Age,Job Type,Hire_Date,Company_Environment,TrainingTimesLastYear,WorkLifeBalance,Country
+Employee_ID,Name,Gender,Marital_Status,Dept_ID,Grade,Employee_Count,Job_Satisfaction,MonthlyIncome,Age,Job Type,Hire_Date,Company_Environment,TrainingTimesLastYear,WorkLifeBalance,Country
 80,Joshua Grant,Male,Divorced,1,2,1,2,5021,46,Permanent,2/10/2016,2,2,3,United States
 101,Laura Bishop,Male,Divorced,1,1,1,1,2073,37,Permanent,2/10/2016,3,3,3,United States
 106,Ariana Potter,Male,Married,1,5,1,4,18844,59,Permanent,2/10/2016,3,3,3,United States
